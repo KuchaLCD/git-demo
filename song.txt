@@ -4,6 +4,8 @@ I wanna pizza
 
 Chek your phone,
 I send you my smile))
+<<<<<<< HEAD
 My roof fly out with u))
+=======
 And i love you, my dear friend(*?*)
-
+>>>>>>> 1822cdde061c27f45f5d34944a4ce183e547aa17
