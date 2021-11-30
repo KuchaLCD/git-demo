@@ -13,4 +13,7 @@ trust me
 >>>>>>> 1822cdde061c27f45f5d34944a4ce183e547aa17
 
 Molly))
+<<<<<<< HEAD
+>>>>>>> feature
+=======
 >>>>>>> feature
